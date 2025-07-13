@@ -84,6 +84,6 @@ Thanks to **Excel Community** resources for design inspiration and data modeling
 Clone this project to your local machine:
 
 ```bash
-git clone https://github.com/VirajAdake210706/Vrinda_Store_Sales_Analysis.git
-cd Vrinda_Store_Sales_Analysis
+ git clone https://github.com/VirajAdake210706/Vrinda-store-sales-analysis.git
+   cd Vrinda-store-sales-analysis
 ```
