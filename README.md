@@ -52,7 +52,7 @@ This project delivers an interactive and structured Excel-based analysis of Vrin
 
 ## 🖼️ Sample Screenshot
 
-![Vrinda Store Analysis Report](https://github.com/VirajAdake210706/Vrinda_Store_Sales_Analysis/raw/main/Your_Screenshot_Image.png)
+![Vrinda Store Sales Dashboard 2023](https://github.com/VirajAdake210706/Vrinda_Store_Sales_Analysis/raw/main/Snapshot%20of%20Vrinda%20Store%20Sales%20Report%202023.png)
 
 
 ## 🚀 How to Use
